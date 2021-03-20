@@ -204,7 +204,7 @@ body{
     .plan{
         /* background-image:url("https://www.wallpapertip.com/wmimgs/99-999014_src-best-gym-background-data-id-gym-wallpaper.jpg"); */
         /* background-image: linear-gradient( to top, transparent, #1d1d1c 120%),url("./images/planbg.jpg"); */
-        background-image:url("./images/planbg.jpg");
+        background-image:url("images/planbg.jpg");
         background-position: center;
         background-repeat: no-repeat;
         background-size: cover;
