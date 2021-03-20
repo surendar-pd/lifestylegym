@@ -73,8 +73,8 @@ body{
     }
     .home{
         /* /images/home2bg.jpg */
-        /* background-image: linear-gradient( to bottom, transparent, #1d1d1c 120%),url("/images/homebg.png"); */
-        background:url("/images/homebg.png");
+        /* background-image: linear-gradient( to bottom, transparent, #1d1d1c 120%),url("./images/homebg.png"); */
+        background:url("./images/homebg.png");
         background-position: center;
         background-size: cover;
         background-repeat: no-repeat;
@@ -203,8 +203,8 @@ body{
     }
     .plan{
         /* background-image:url("https://www.wallpapertip.com/wmimgs/99-999014_src-best-gym-background-data-id-gym-wallpaper.jpg"); */
-        /* background-image: linear-gradient( to top, transparent, #1d1d1c 120%),url("/images/planbg.jpg"); */
-        background-image:url("/images/planbg.jpg");
+        /* background-image: linear-gradient( to top, transparent, #1d1d1c 120%),url("./images/planbg.jpg"); */
+        background-image:url("./images/planbg.jpg");
         background-position: center;
         background-repeat: no-repeat;
         background-size: cover;
@@ -324,7 +324,7 @@ body{
     }
     
     .contact{
-        background:url("/images/contactbg.jpeg");
+        background:url("./images/contactbg.jpeg");
         color: white;
         width: 100%;
         height: 100vh;
@@ -480,7 +480,7 @@ body{
     }
     .home{
         /* /images/home2bg.jpg */
-        background:url("/images/homebg.png");
+        background:url("./images/homebg.png");
         background-size: cover;
         background-repeat: no-repeat;
         background-position: center;
@@ -609,7 +609,7 @@ body{
     }
     .plan{
         /* background-image:url("https://www.wallpapertip.com/wmimgs/99-999014_src-best-gym-background-data-id-gym-wallpaper.jpg"); */
-        background-image:url("/images/planbg.jpg");
+        background-image:url("./images/planbg.jpg");
         background-position: center;
         background-repeat: no-repeat;
         background-size: cover;
@@ -727,7 +727,7 @@ body{
     }
     
     .contact{
-        background:url("/images/contactbg.jpeg");
+        background:url("./images/contactbg.jpeg");
         color: white;
         width: 100%;
         height: 100vh;
@@ -883,7 +883,7 @@ body{
         border-bottom: 1px solid white ;
     }
     .home{
-        background:url("/images/homebg.png");
+        background:url("./images/homebg.png");
         background-position: center;
         background-size: cover;
         background-repeat: no-repeat;
@@ -1013,7 +1013,7 @@ body{
         transition-delay: 0.5s;
     }
     .plan{
-        background-image:url("/images/planbg.jpg");
+        background-image:url("./images/planbg.jpg");
         background-position: center;
         background-repeat: no-repeat;
         /* filter: blur(8px); */
@@ -1115,7 +1115,7 @@ body{
         
     }
     .contact{
-        background:url("/images/contactbg.jpeg");
+        background:url("./images/contactbg.jpeg");
         color: white;
         width: 100%;
         height: 100vh;
@@ -1389,7 +1389,7 @@ body{
         transition-delay: 0.5s;
     }
     .plan{
-        background-image:url("/images/planbg.jpg");
+        background-image:url("./images/planbg.jpg");
         background-position: center;
         background-repeat: no-repeat;
         /* filter: blur(8px); */
@@ -1498,7 +1498,7 @@ body{
         /* box-shadow: 0 4px 14px 0 rgba(255, 255, 255, 0.2), 0 6px 20px 0 rgba(255, 255, 255, 0.19); */
     }
     .contact{
-        background:url("/images/contactbg.jpeg");
+        background:url("./images/contactbg.jpeg");
         background-position: center;
         background-repeat: no-repeat;
         color: white;
@@ -1791,7 +1791,7 @@ body{
     }
 
     .plan{
-        background-image:url("/images/planbg.jpg");
+        background-image:url("./images/planbg.jpg");
         background-position: center;
         background-repeat: no-repeat;
         /* filter: blur(8px); */
@@ -1902,7 +1902,7 @@ body{
         width: 125px;
     }
     .contact{
-        background:url("/images/contactbg.jpeg");
+        background:url("./images/contactbg.jpeg");
         background-position:center;
         background-repeat: no-repeat;
         color: white;
@@ -2185,7 +2185,7 @@ body{
         transition-delay: 0.5s;
     }
     .plan{
-        background-image:url("/images/planbg.jpg");
+        background-image:url("./images/planbg.jpg");
         background-position: center;
         background-repeat: no-repeat;
         /* filter: blur(8px); */
@@ -2295,7 +2295,7 @@ body{
         width: 117px;
     }
     .contact{
-        background:url("/images/contactbg.jpeg");
+        background:url("./images/contactbg.jpeg");
         background-position: center;
         background-repeat: no-repeat;
         color: white;
