@@ -72,7 +72,7 @@ body{
         border-bottom: 1px solid rgb(206, 42, 42) ;
     }
     .home{
-        /* /images/home2bg.jpg */
+        /* images/home2bg.jpg */
         /* background-image: linear-gradient( to bottom, transparent, #1d1d1c 120%),url("images/homebg.png"); */
         background:url("images/homebg.png");
         background-position: center;
@@ -479,7 +479,7 @@ body{
         border-bottom: 1px solid rgb(206, 42, 42) ;
     }
     .home{
-        /* /images/home2bg.jpg */
+        /* images/home2bg.jpg */
         background:url("images/homebg.png");
         background-size: cover;
         background-repeat: no-repeat;
@@ -1265,7 +1265,7 @@ body{
         border-bottom: 1px solid white ;
     }
     .home{
-        background:url("/images/home2bg.jpg");
+        background:url("images/home2bg.jpg");
         background-position: center;
         background-size: cover;
         background-repeat: no-repeat;
@@ -1668,7 +1668,7 @@ body{
         border-bottom: 1px solid white ;
     }
     .home{
-        background:url("/images/home2bg.jpg");
+        background:url("images/home2bg.jpg");
         background-position: center;
         background-size: cover;
         background-repeat: no-repeat;
@@ -2064,7 +2064,7 @@ body{
         border-bottom: 1px solid white ;
     }
     .home{
-        background:url("/images/home2bg.jpg");
+        background:url("images/home2bg.jpg");
         background-position: center;
         background-size: cover;
         background-repeat: no-repeat;
