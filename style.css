@@ -97,7 +97,7 @@ body{
     .content h1{
         /* letter-spacing: 10px; */
         color: rgb(206, 42, 42);
-        font-size: 9vw;
+        font-size: 7vw;
     }
     .content span{
         color: white;
@@ -511,7 +511,7 @@ body{
     }
     .content p{
         color:rgb(255, 255, 255);;
-        font-size:50px;
+        font-size:40px;
     }
     /* BUTTON */
     .button{
@@ -523,7 +523,7 @@ body{
     }
     .button p{
         /* color: rgb(206, 42, 42); */
-        font-size: 25px;
+        font-size: 20px;
     }
     .button a{
         position: relative;
